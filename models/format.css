@@ -1,0 +1,59 @@
+body{
+
+}
+a {
+	text-decoration: none;
+	color:black;
+}
+
+.ee
+{
+	background-color:#FFB5C5;
+}
+.lin{
+	font-weight:bold;
+}
+
+.lin:hover {
+	color:blue;
+	}
+
+
+table
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	
+}
+.cor
+{
+	background-color:#8B8386;
+	font-weight:bold;
+	font-family: Arial;
+	color:#FFFF;
+
+}
+td
+{
+	font-family: Arial;
+	width: 100px;
+	text-align: center;
+	border: 2px solid black;
+}
+.inp 
+{
+
+  position:absolute;
+  margin-left: 20px;
+
+}
+div
+{
+	margin-top: 10px;
+
+}
+.texto
+{
+
+	font-family: Arial;
+}
